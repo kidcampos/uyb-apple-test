@@ -19,7 +19,7 @@ function App() {
 	return (
 		<>
 			<NavigationBar />
-			<main className='main'>
+			{/* <main className='main'>
 				<section className="homepage-section collection-module" data-module-template="heroes" data-analytics-region="hero">
 					<Section1 />
 					<Section2 />
@@ -34,7 +34,7 @@ function App() {
 					<GridItem6 />
 				</section>
 				<Carousel />
-			</main>
+			</main> */}
 		</>
 	)
 }
